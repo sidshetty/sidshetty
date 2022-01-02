@@ -1,7 +1,7 @@
 ### Hi there, I'm Sid  👋
 
 
-## I'm an experienced Developer and Lead!
+## I'm an experienced Frontend Developer and Lead!
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to contribute to high quality software
