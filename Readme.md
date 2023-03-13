@@ -3,7 +3,9 @@
 
 ## I'm an experienced Frontend Developer and Lead!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Astro
+- ☁  Certified AWS cloud practitioner
+- 🥼 Digital transformation expert in the BFSI domain 
 - 👯 I’m looking to contribute to high quality software
 
 
