@@ -8,6 +8,7 @@
 - 🥼 Digital transformation expert in the BFSI domain 
 - 👯 I’m looking to contribute to high-quality software
 
+![sidshetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidshetty&theme=vue-dark&hide_border=true)
 
 <!--
 - ⚡ Fun fact: I love to draw and play guitar / drums
