@@ -10,6 +10,8 @@
 
 ![sidshetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidshetty&theme=vue-dark&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidshetty&langs_count=8)
+
 <!--
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
