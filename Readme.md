@@ -3,10 +3,8 @@
 
 ## I'm an experienced FullStack Developer and Lead!
 
-- 🌱 I’m currently learning Astro
-- ☁  Certified AWS cloud practitioner
-- 🥼 Digital transformation expert in the BFSI domain 
-- 👯 I’m looking to contribute to high-quality software
+- Work [Quixar Digital](https://www.quixardigital.com)
+- Personal [siddharthshetty.in](https://www.siddharthshetty.in)
 
 ![sidshetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidshetty&theme=vue-dark&hide_border=true)
 
